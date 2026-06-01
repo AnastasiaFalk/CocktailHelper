@@ -2131,6 +2131,27 @@
     "allergens": []
   },
   {
+    "name": "GREEN VELVET SOUR",
+    "category": "Alcoholic",
+    "ingredients": [
+      "40 ML JAMESON",
+      "20 ML VELVET FALERNUM",
+      "1/5 MATCHA POWDER",
+      "15 ML LIME JUICE",
+      "25 ML SUGAR SYRUP",
+      "5 ML FOAMER"
+    ],
+    "method": "DRY SHAKE, WET SHAKE",
+    "glassware": "ROCK",
+    "ice": "CUBED",
+    "garnish": "LIME FAN ON A STICK",
+    "allergens": [
+      "SULPHITES",
+      "NUTS",
+      "COFFEE"
+    ]
+  },
+  {
     "name": "GUATEMALAN OLD FASHIONED",
     "category": "Alcoholic",
     "ingredients": [
@@ -4209,7 +4230,7 @@
       "10 EA MINT LEAVES"
     ],
     "method": "SHAKE AND STRAIN",
-    "glassware": "CAFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
+    "glassware": "CAFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
     "ice": "CRUSHED ICE",
     "garnish": "MINT SPRING",
     "allergens": [
