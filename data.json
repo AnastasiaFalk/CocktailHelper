@@ -4209,7 +4209,7 @@
       "10 EA MINT LEAVES"
     ],
     "method": "SHAKE AND STRAIN",
-    "glassware": "CAFÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
+    "glassware": "CAFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
     "ice": "CRUSHED ICE",
     "garnish": "MINT SPRING",
     "allergens": [
@@ -4671,6 +4671,24 @@
     "ice": null,
     "garnish": "STRAWBERRY ON THE RIM",
     "allergens": []
+  },
+  {
+    "name": "STRAWBERRY SILK",
+    "category": "Alcoholic",
+    "ingredients": [
+      "40 ML ABSOLUT VANILLA VODKA",
+      "20 ML BRIOTTET RHUBARB",
+      "15 ML LEMON JUICE",
+      "1 DASH SUGAR SYRUP",
+      "2 EA STRAWBERRIES"
+    ],
+    "method": "MUDDLE STRAWBERRIES, SHAKE AND DOUBLE STRAIN, TOP UP WITH SPARKLING WATER",
+    "glassware": "HIGHBALL",
+    "ice": "CUBED / TOPPED CRUSHED",
+    "garnish": "HALF STRAWBERRY",
+    "allergens": [
+      "CITRUS"
+    ]
   },
   {
     "name": "STRAWPBERRY DAIQUIRI",
