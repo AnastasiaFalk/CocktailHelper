@@ -1459,6 +1459,23 @@
     ]
   },
   {
+    "name": "CUCUMBER & ELDERFLOWER MARTINI",
+    "category": "Alcoholic",
+    "ingredients": [
+      "50 ML BEEFAETER GIN",
+      "20 ML ELDERFLOWER CORDIAL",
+      "2 EA SLICES OF CUCUMBER (FOR MUDDLING)",
+      "1 DASH LEMON JUICE"
+    ],
+    "method": "SHAKE AND DOUBLE STRAIN",
+    "glassware": null,
+    "ice": null,
+    "garnish": "CUCUMBER FAN ON STICK",
+    "allergens": [
+      "CITRUS"
+    ]
+  },
+  {
     "name": "DAIQUIRI",
     "category": "Alcoholic",
     "ingredients": [
@@ -4249,7 +4266,7 @@
       "10 EA MINT LEAVES"
     ],
     "method": "SHAKE AND STRAIN",
-    "glassware": "CAFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
+    "glassware": "CAFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ROCK / CLUB WATER GLS",
     "ice": "CRUSHED ICE",
     "garnish": "MINT SPRING",
     "allergens": [
